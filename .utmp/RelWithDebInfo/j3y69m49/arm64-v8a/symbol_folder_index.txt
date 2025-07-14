@@ -1,0 +1,1 @@
+D:\Study\Mindscape Team\.demo projects\theProjectDemo\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\j3y69m49\obj\arm64-v8a
